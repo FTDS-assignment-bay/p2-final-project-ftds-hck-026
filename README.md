@@ -1,5 +1,3 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assignment-invitations/73656f6f44944dcc4b173adf34f665c8/status)]
-
 <div align="center">
   <p>
     <a align="center">
