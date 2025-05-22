@@ -1,0 +1,20 @@
+item {
+    id: 1
+    name: "scissors"
+}
+item {
+    id: 2
+    name: "unidentified"
+}
+item {
+    id: 3
+    name: "knife"
+}
+item {
+    id: 4
+    name: "cutter"
+}
+item {
+    id: 5
+    name: "swiss_army_knife"
+}

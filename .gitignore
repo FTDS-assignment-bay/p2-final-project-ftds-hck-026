@@ -1,1 +1,9 @@
 /dataset
+/faster_rcnn_640
+/ssd_mobilenet_v2_320x320_coco17_tpu-8
+/saved_model*
+*.rar
+*.csv
+*.record
+*.tfrecord
+__pycache__
