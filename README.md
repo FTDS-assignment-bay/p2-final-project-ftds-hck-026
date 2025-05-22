@@ -17,7 +17,7 @@ However, interpreting X-ray scan images poses a challenge, as items with differe
 This computer vision-based anomaly detection system can process X-ray images and identify unusual or potentially hazardous items, thereby speeding up the inspection process and enhancing safety across various locations.
 
 ## Objectives
-1. **X-tray Object detection:**Object detection is a technology used to recognize and locate objects within an image by drawing bounding boxes and assigning classifications.
+1. **X-tray Object detection:** Object detection is a technology used to recognize and locate objects within an image by drawing bounding boxes and assigning classifications.
 In X-ray baggage detection, this technology helps automatically identify various dangerous items inside luggage, thereby improving the efficiency and accuracy of security screening without relying solely on manual observation.
 
 2. **Percentage Distribution of Labels per Clas:** Based on the results of Percentage Distribution of Labels per Class, , Class 4: Swiss Army Knife holds the highest percentage at 23.1%.This indicates that the item frequently appears during X-ray scans. Following closely is Class 1, labeled as Unidentified Object, with a percentage of 22.5%. For the other classes, the items have been clearly identified as Cutter, Scissor, and Knife.
