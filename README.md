@@ -6,6 +6,7 @@
       <img width="550" src="https://github.com/FTDS-assignment-bay/p2-final-project-ftds-hck-026/blob/dev-tina/LOGO%20AISEE%20YOU.png"></a>
   </p>
 </div>
+
 ## Introduction
 Introducing **"AISee You"** - AISeeYou is an AI-powered application designed to quickly and accurately detect suspicious objects from X-ray scans. By using AISeeYou, potential smuggling of weapons or hazardous materials can be identified early, significantly reducing crime rates and security threats. This solution strengthens security systems and enhances public safety with high efficiency.
 
