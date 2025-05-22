@@ -38,7 +38,7 @@ Adding more data helps the model learn from a wider variety of examples, which i
 4. **Trying Different Model Architectures:** Exploring alternative model architectures (e.g., YOLOv8, EfficientDet, or Faster R-CNN) can help identify one that better balances speed, accuracy, and resource efficiency for X-ray object detection tasks. Each architecture has strengths that may suit specific use cases.
 
 ## Meet our team
-* Zaky Rizky Akbar | [LinkedIn](https://www.linkedin.com/in/zaky-rizky-akbar-894332171/) | [Github] (https://github.com/zakyrizky05) 
+* Zaky Rizky Akbar | [LinkedIn](https://www.linkedin.com/in/zaky-rizky-akbar-894332171/) | [Github](https://github.com/zakyrizky05) 
 * Maulana Yusuf Taufiqurrahman| [LinkedIn](https://www.linkedin.com/in/maulana-yusuf-taufiqurrahman-5281662a2) | [Github](https://github.com/Maulana-Yusuf-T)
 * Angga Fadhlurrahman Prianto | [LinkedIn](www.linkedin.com/in/angga-fadhlurrahman-prianto-29501b194) | [Github](https://github.com/angga7353)
 * Muhammad Irfan Hilmi| [LinkedIn](https://www.linkedin.com/in/muhammad-irfan-hilmi-90a282241/) | [Github]( https://github.com/Hennoshin)
