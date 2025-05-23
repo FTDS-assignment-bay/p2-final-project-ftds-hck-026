@@ -23,8 +23,12 @@ In X-ray baggage detection, this technology helps automatically identify various
 The dataset used in this analysis was obtained from Kaggle. However, it is important to note that we believe there is a mislabeling issue within the dataset regarding Class 1. As a result, we refer to it as Unidentified Object, as previously mentioned.
 
 ## Demo
+### YOLOv8 Model
 1. To get started, visit the provided [link](https://deployment-5rznu7uyrh43hms2ce7vh5.streamlit.app/) to access the application.
-2. Once you have logged into the application, you will see several page options to explore. To find out when dangerous objects are most likely to be detected, please select the 'X-ray Detection Prediction' page. 
+2. Once you have logged into the application, you will see several page options to explore. To find out when dangerous objects are most likely to be detected, please select the 'X-ray Detection Prediction' page.
+
+### Faster R-CNN w/ResNet50
+Follow the guide at [TensorFlow README.md](TensorFlow%20README.md) to train and run your own model.
 
 ## Conclusion
 The model is able to detect dangerous objects from X-ray images effectively.
