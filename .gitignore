@@ -1,6 +1,5 @@
 /dataset
-/faster_rcnn_640
-/ssd_mobilenet_v2_320x320_coco17_tpu-8
+/faster_rcnn_resnet50_v1_640x640_coco17_tpu-8
 /saved_model*
 *.rar
 *.csv
