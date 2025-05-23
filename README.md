@@ -28,7 +28,8 @@ The dataset used in this analysis was obtained from Kaggle. However, it is impor
 2. Once you have logged into the application, you will see several page options to explore. To find out when dangerous objects are most likely to be detected, please select the 'X-ray Detection Prediction' page.
 
 ### Faster R-CNN w/ResNet50
-Follow the guide at [TensorFlow README.md](TensorFlow%20README.md) to train and run your own model.
+Download the trained model from this [Google Drive link](https://drive.google.com/file/d/1T4EIeSrLjLdQ3Bk2YBNywTcSX5QoTBlL/view?usp=sharing), extract the content and put it in the root folder of the repository.
+Alternatively, you can train and build your own model. Follow the guide at [TensorFlow README.md](TensorFlow%20README.md) to train and run your own model.
 
 ## Conclusion
 The model is able to detect dangerous objects from X-ray images effectively.
