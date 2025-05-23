@@ -19,7 +19,7 @@ This computer vision-based anomaly detection system can process X-ray images and
 1. **X-tray Object detection:** Object detection is a technology used to recognize and locate objects within an image by drawing bounding boxes and assigning classifications.
 In X-ray baggage detection, this technology helps automatically identify various dangerous items inside luggage, thereby improving the efficiency and accuracy of security screening without relying solely on manual observation.
 
-2. **Percentage Distribution of Labels per Clas:** Based on the results of Percentage Distribution of Labels per Class, , Class 4: Swiss Army Knife holds the highest percentage at 23.1%.This indicates that the item frequently appears during X-ray scans. Following closely is Class 1, labeled as Unidentified Object, with a percentage of 22.5%. For the other classes, the items have been clearly identified as Cutter, Scissor, and Knife.
+2. **Percentage Distribution of Labels per Class:** Based on the results of Percentage Distribution of Labels per Class, , Class 4: Swiss Army Knife holds the highest percentage at 23.1%.This indicates that the item frequently appears during X-ray scans. Following closely is Class 1, labeled as an Unidentified Object, with a percentage of 22.5%. For the other classes, the items have been clearly identified as Cutter, Scissor, and Knife.
 The dataset used in this analysis was obtained from Kaggle. However, it is important to note that we believe there is a mislabeling issue within the dataset regarding Class 1. As a result, we refer to it as Unidentified Object, as previously mentioned.
 
 ## Demo
